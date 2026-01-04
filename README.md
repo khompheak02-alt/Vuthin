@@ -1,2 +1,2 @@
-# Vuthin
+# Vuthin Tim
 Web Developer
